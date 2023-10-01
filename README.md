@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m new to the world of coding and I am really excited about it.
-- 📫 reach me on Insta @glimpse0fmylife and that's a zero
+- 📫 reach me on Insta @glimpse0fmylife with zero
 
 
 <!---
